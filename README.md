@@ -16,3 +16,4 @@ Working through various Google Codelabs tutorials
 - [SlackBot w/ Kubernetes](https://codelabs.developers.google.com/codelabs/cloud-slack-bot/index.html?index=..%2F..%2Findex#0)
 - [Node Container Project](https://codelabs.developers.google.com/codelabs/cloud-hello-kubernetes/index.html?index=..%2F..%2Findex#0)
 - [Google Cloud Speech API](https://codelabs.developers.google.com/codelabs/cloud-speech-nodejs/index.html?index=..%2F..%2Findex#0)
+- [ES2015](https://codelabs.developers.google.com/codelabs/chrome-es2015/index.html?index=..%2F..%2Findex#0)
